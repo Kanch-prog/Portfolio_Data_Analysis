@@ -97,7 +97,7 @@ const Home = () => {
           <ParticlesComponent id="particles" />
         </ParticlesWrapper>
         <Name>Kanchana <img 
-            src="./img/Home_single_big.png" 
+            src="/img/Home_single_big.png" 
             alt="Logo" 
             style={{ 
               display: 'inline', 
