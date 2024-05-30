@@ -118,7 +118,7 @@ const Intro = () => {
   return (
     <>
       <IntroContainerIn>
-        <Image src="./img/me.png" alt="Profile" />
+        <Image src="/img/me.png" alt="Profile" />
         <TextContainer>
           <p><strong>Hi, I'm Kanchana.</strong></p>
           <p>currently a dedicated math teacher with a passion for numbers and problem-solving. Over the past few years, I've been fostering a love for mathematics in my students, helping them develop critical thinking skills and a deep understanding of mathematical concepts. While teaching has been incredibly rewarding, I'm excited to transition into the data analysis industry, where I can apply my analytical skills in new and impactful ways.</p>
