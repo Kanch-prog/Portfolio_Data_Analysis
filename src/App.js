@@ -9,12 +9,12 @@ import GlobalStyle from './globalStyles';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/Portfolio_Data_Analysis">
       <GlobalStyle />
       <NavBar />
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/Intro" element={<Intro />} />
+        <Route path="/intro" element={<Intro />} />
         <Route path="/portfolio" element={<Portfolio />} />
         <Route path="/contact" element={<Contact />} />
       </Routes>
